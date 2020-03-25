@@ -133,10 +133,12 @@ width: 50%;
 position: absolute;
 left: 45%;
 top: 95%;
-}.slick-dots li {
+}
+.slick-dots li {
 display: inline-block;
 padding-left: 5px;
-}.slick-dots li button {
+}
+.slick-dots li button {
 font-size: 0px;
 border: 5px solid #fff;
 width: 15px;
@@ -148,6 +150,7 @@ cursor: pointer;
 li.slick-active button {
 background: #FF4500;	
 }
+
 /*SECÇÃO 2 - article*/
 .coluna-main-section-content, .coluna-main-conteudo-extra, .footer{
 font-family: 'Ubuntu', sans-serif;
@@ -196,7 +199,6 @@ position: relative;
 .conteudo-extra img {
 width: 200px;
 height: 200px;
-
 }
 /*RODAPÉ*/
 .footer{
